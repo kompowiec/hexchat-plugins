@@ -1,4 +1,3 @@
-```python
 import hexchat
 import re
 
@@ -307,4 +306,3 @@ def load_plugin():
 
 
 load_plugin()
-```
